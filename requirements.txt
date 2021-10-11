@@ -1,0 +1,10 @@
+pip install requests
+pip install asyncio
+pip install bs4
+pip install BeautifulSoup
+pip install aiohttp
+pip install pandas
+pip install pd
+pip install numpy
+pip install openpyxl.workbook
+pip install Workbook
